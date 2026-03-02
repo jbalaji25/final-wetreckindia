@@ -1,0 +1,33 @@
+﻿
+> vite-react-typescript-starter@0.0.0 lint
+> eslint .
+
+
+D:\wetreck\we-treks-project\.vite\deps\axios.js
+  451:3   warning  Unused eslint-disable directive (no problems were reported from 'func-names')
+  546:13  warning  Unused eslint-disable directive (no problems were reported from 'no-nested-ternary')
+  762:54  warning  Unused eslint-disable directive (no problems were reported from 'no-undef')
+
+D:\wetreck\we-treks-project\.vite\deps\chunk-65KY755N.js
+  684:21  error  Definition for rule 'react-internal/safe-string-coercion' was not found  react-internal/safe-string-coercion
+
+D:\wetreck\we-treks-project\.vite\deps\chunk-E5ODL3YF.js
+   1984:15  warning  Unused eslint-disable directive (no problems were reported)
+   5585:13  warning  Unused eslint-disable directive (no problems were reported from 'no-fallthrough')
+   5593:13  warning  Unused eslint-disable directive (no problems were reported from 'no-fallthrough')
+   5597:13  warning  Unused eslint-disable directive (no problems were reported from 'no-fallthrough')
+   5623:13  warning  Unused eslint-disable directive (no problems were reported from 'no-fallthrough')
+  20457:15  warning  Unused eslint-disable directive (no problems were reported from 'no-fallthrough')
+  20459:15  warning  Unused eslint-disable directive (no problems were reported from 'no-fallthrough')
+  20461:15  warning  Unused eslint-disable directive (no problems were reported from 'no-fallthrough')
+  20463:15  warning  Unused eslint-disable directive (no problems were reported from 'no-fallthrough')
+  20465:15  warning  Unused eslint-disable directive (no problems were reported from 'no-fallthrough')
+
+D:\wetreck\we-treks-project\.vite\deps\react-router-dom.js
+  9393:7  error  Definition for rule 'jsx-a11y/anchor-has-content' was not found  jsx-a11y/anchor-has-content
+  9428:5  error  Definition for rule 'react-hooks/rules-of-hooks' was not found   react-hooks/rules-of-hooks
+  9551:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+Γ£û 17 problems (4 errors, 13 warnings)
+  0 errors and 13 warnings potentially fixable with the `--fix` option.
+

@@ -1,0 +1,20 @@
+﻿1c83f3d (origin/master) update
+e97b09f update
+f31385f (HEAD -> main, origin/main, origin/HEAD) fix image urls in frontend
+812ba07 fix image urls in frontend
+052d817 simplify api url config
+63fff67 update
+efa23b9 update
+d450fc2 update
+f694b18 update
+15943e2 update
+826fd37 update
+ff19ab5 hi
+925b8de test
+fdabc83 test
+934881f changes in booking page
+d6be373 changes in membership
+e875b00 small changes
+7c0d310 booking done changes
+752c1e2 booking page animation
+793b933 phone update

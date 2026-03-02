@@ -1,0 +1,8 @@
+﻿src/components/BikeRidingPackage.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/components/Hero.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/TrekkingPackages.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/About.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/BikeRidingPackageDetail.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/Blog.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/PackageDetail.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/TrekDetail.tsx(1,8): error TS6133: 'React' is declared but its value is never read.

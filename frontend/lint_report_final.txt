@@ -1,0 +1,58 @@
+﻿
+> vite-react-typescript-starter@0.0.0 lint
+> eslint .
+
+
+E:\wetrekindia\frontend\src\components\AddBikeRideForm.tsx
+  5:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+E:\wetrekindia\frontend\src\components\AddGalleryForm.tsx
+  5:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+E:\wetrekindia\frontend\src\components\AddPackageForm.tsx
+   13:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  257:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+E:\wetrekindia\frontend\src\components\AddTrekkingForm.tsx
+  5:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+E:\wetrekindia\frontend\src\components\BikeRidingPackage.tsx
+  34:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+E:\wetrekindia\frontend\src\components\Footer.tsx
+   9:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+E:\wetrekindia\frontend\src\components\TrekkingPackages.tsx
+  51:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+E:\wetrekindia\frontend\src\pages\AdminDashboard.tsx
+  45:8  warning  React Hook useEffect has a missing dependency: 'fetchItems'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+E:\wetrekindia\frontend\src\pages\BikeRidingPackageDetail.tsx
+    7:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  155:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+E:\wetrekindia\frontend\src\pages\BookingPage.tsx
+   86:6  warning  React Hook useEffect has a missing dependency: 'personDetails'. Either include it or remove the dependency array                                                                                                                                       react-hooks/exhaustive-deps
+   86:7  warning  React Hook useEffect has a complex expression in the dependency array. Extract it to a separate variable so it can be statically checked                                                                                                               react-hooks/exhaustive-deps
+  127:6  warning  React Hook useEffect has a missing dependency: 'personDetails'. Either include it or remove the dependency array                                                                                                                                       react-hooks/exhaustive-deps
+  133:6  warning  React Hook useEffect has a missing dependency: 'personDetails'. Either include it or remove the dependency array. You can also replace multiple useState variables with useReducer if 'setValidationEmail' needs the current value of 'personDetails'  react-hooks/exhaustive-deps
+  133:7  warning  React Hook useEffect has a complex expression in the dependency array. Extract it to a separate variable so it can be statically checked                                                                                                               react-hooks/exhaustive-deps
+  155:6  warning  React Hook useEffect has a missing dependency: 'personDetails'. Either include it or remove the dependency array                                                                                                                                       react-hooks/exhaustive-deps
+  155:7  warning  React Hook useEffect has a complex expression in the dependency array. Extract it to a separate variable so it can be statically checked                                                                                                               react-hooks/exhaustive-deps
+
+E:\wetrekindia\frontend\src\pages\PackageDetail.tsx
+   12:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  139:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+E:\wetrekindia\frontend\src\pages\Packages.tsx
+  21:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+E:\wetrekindia\frontend\src\pages\TrekDetail.tsx
+    8:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+Γ£û 25 problems (17 errors, 8 warnings)
+
