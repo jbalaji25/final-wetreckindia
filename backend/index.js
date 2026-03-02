@@ -211,6 +211,15 @@ app.post('/api/validate-membership', async (req, res) => {
   }
 });
 
+// Serve frontend static files
+const frontendDistPath = path.join(__dirname, '..', 'frontend', 'dist');
+app.use(express.static(frontendDistPath));
+
+// Handle client-side routing
+app.get('*', (req, res) => {
+  res.sendFile(path.join(frontendDistPath, 'index.html'));
+});
+
 const PORT = process.env.PORT || 5002;
 app.listen(PORT, () => {
   console.log(`Backend server running on port ${PORT}`);
